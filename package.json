@@ -2,7 +2,7 @@
   "name": "portefolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/BangalyLeDeveloppeur.github.io/Portefoliobangaly-Github",
+  "homepage": "https://BangalyLeDeveloppeur.github.io/portefoliobangaly",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -13,6 +13,7 @@
     "react-scripts": "^5.0.1",
     "react-scroll": "^1.9.0",
     "sass": "^1.80.3",
+    "save-dev": "^0.0.1-security",
     "web-vitals": "^2.1.4",
     "webpack": "^5.96.1"
   },
@@ -23,7 +24,6 @@
     "eject": "react-scripts eject",
     "predeploy": "gh-pages -d build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
