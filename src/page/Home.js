@@ -4,9 +4,11 @@ import Competence from "../components/competences/competence";
 import Travaux from "../components/travaux/Travaux";
 import Formulaire from "../components/form/Forme";
 
+
 const Home = () => {
   return (
     <div>
+     
       <h1 className="acro">
         Former des interfaces responsives et optimales, engager les utilisateurs
         grâce la navigation intuitive et design interactif.

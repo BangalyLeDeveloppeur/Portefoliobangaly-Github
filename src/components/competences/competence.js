@@ -12,13 +12,13 @@ const competence = () => {
     <div>
       <h1 className="title">COMPETENCES</h1>
       <div className="competence">
-        <img src={imageOrdinateurAvecCode}></img>
+        <img src={imageOrdinateurAvecCode} alt="Ordinateur affichant du code sur l'ecran "></img>
 
         <section className="sect-progres-bar">
           <div class="progress-bar">
             <div class="progress">
               <div className="progre-title">
-                <img src={logoHtml}></img>
+                <img src={logoHtml} alt="Logo html "></img>
                 <h1>html</h1>
               </div>
               
@@ -28,7 +28,7 @@ const competence = () => {
           <div class="progress-bar">
             <div class="progress-css">
               <div className="progre-title">
-                <img src={logoCSS}></img>
+                <img src={logoCSS} alt="Logo css"></img>
                 <h1>CSS</h1>
               </div>
         
@@ -37,7 +37,7 @@ const competence = () => {
           <div class="progress-bar">
             <div class="progress-sas">
               <div className="progre-title">
-                <img src={logosass}></img>
+                <img src={logosass} alt="Logo sass "></img>
                 <h1>SASS</h1>
               </div>
               
@@ -47,7 +47,7 @@ const competence = () => {
           <div class="progress-bar">
             <div class="progress-javascript">
               <div className="progre-title">
-                <img src={logojavascript}></img>
+                <img src={logojavascript} alt="Logo javascript"></img>
                 <h1>JAVASCRIPT</h1>
               </div>
              
@@ -56,7 +56,7 @@ const competence = () => {
           <div class="progress-bar">
             <div class="progress-react">
               <div className="progre-title">
-                <img src={logoReact}></img>
+                <img src={logoReact} alt="Logo react "></img>
                 <h1>REACT/REDUX</h1>
               </div>
               
@@ -65,7 +65,7 @@ const competence = () => {
           <div class="progress-bar">
             <div class="progress-github">
               <div className="progre-title">
-                <img src={logoGithub}></img>
+                <img src={logoGithub} alt="Logo github"></img>
                 <h1>GITHUB/GIT</h1>
               </div>
              
@@ -74,7 +74,7 @@ const competence = () => {
           <div class="progress-bar">
             <div class="progress-wordpress">
               <div className="progre-title">
-                <img src={logoWordpress}></img>
+                <img src={logoWordpress} alt="Logo wordpress"></img>
                 <h1>WORDPRESS</h1>
               </div>
             </div>
